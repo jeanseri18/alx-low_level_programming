@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
+
+//git remote set-url origin https://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@github.com/jeanseri18/alx-low_level_programming.git
+
+
+//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
